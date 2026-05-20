@@ -1,0 +1,322 @@
+[
+  {
+    "b": 1,
+    "q": "1. En la etapa de crecimiento del ciclo de vida de la industria, las barreras de entrada son principalmente:",
+    "o": [
+      "a. De tipo tecnológico",
+      "b. Basadas en el efecto experiencia",
+      "c. Basadas en el sobredimensionamiento",
+      "d. Establecidas en función de la reacción de los competidores establecidos"
+    ],
+    "a": 1,
+    "exp": "En la etapa de crecimiento, el aumento de la demanda atrae a nuevos competidores, siendo las ventajas en costes por el efecto experiencia o economías de escala las principales barreras de entrada."
+  },
+  {
+    "b": 1,
+    "q": "2. Cuando el criterio de propósito es más importante que el de procedimiento. La estructura más efectiva es:",
+    "o": [
+      "a. La matricial",
+      "b. La divisional",
+      "c. La funcional",
+      "d. La simple"
+    ],
+    "a": 1,
+    "exp": "La estructura divisional agrupa por propósitos (productos, mercados), mientras que la funcional lo hace por procedimientos."
+  },
+  {
+    "b": 1,
+    "q": "3. El acuerdo mediante el cual dos o más empresas independientes crean una tercera empresa para desarrollar una actividad se conoce como:",
+    "o": [
+      "a. Consorcio",
+      "b. Empresa conjunta",
+      "c. Subcontratación",
+      "d. Franquicia"
+    ],
+    "a": 1,
+    "exp": "Una empresa conjunta (joint venture) implica que dos o más empresas (matrices) crean una entidad jurídicamente independiente."
+  },
+  {
+    "b": 1,
+    "q": "4. Una de las alternativas estratégicas para industrias con base tecnológica es:",
+    "o": [
+      "a. Proteger la innovación",
+      "b. Controlar el estándar técnico",
+      "c. Todas son correctas",
+      "d. Tener disponibilidad de recursos complementarios"
+    ],
+    "a": 2,
+    "exp": "En industrias tecnológicas, las estrategias incluyen proteger la innovación, controlar el estándar y disponer de recursos complementarios."
+  },
+  {
+    "b": 1,
+    "q": "5. Una de las actividades que se desarrolla en la planificación estratégica es:",
+    "o": [
+      "a. La asignación de recursos",
+      "b. El establecimiento de políticas y procedimientos",
+      "c. Todas son correctas",
+      "d. El establecimiento de objetivos anuales y planes de acción"
+    ],
+    "a": 2,
+    "exp": "La planificación estratégica incluye tanto la asignación de recursos como el establecimiento de políticas, objetivos y planes."
+  },
+  {
+    "b": 1,
+    "q": "6. Indique cuál de estas afirmaciones relacionadas con la diversificación es correcta:",
+    "o": [
+      "a. La estrategia de diversificación siempre conduce a la creación de valor para la empresa",
+      "b. El valor del conjunto es inferior a la suma de las partes",
+      "c. Cabe esperar una mayor rentabilidad en la diversificación relacionada que en la no relacionada",
+      "d. Ninguna respuesta es correcta"
+    ],
+    "a": 2,
+    "exp": "Generalmente se asume empíricamente que la diversificación relacionada ofrece mayor rentabilidad por la generación de sinergias."
+  },
+  {
+    "b": 1,
+    "q": "7. Cuando las presiones para reducir costes y adaptación local son altas, el tipo de estrategia competitiva internacional más adecuada es:",
+    "o": [
+      "a. La estrategia global",
+      "b. La estrategia multipaís",
+      "c. La estrategia transnacional",
+      "d. La estrategia internacional"
+    ],
+    "a": 2,
+    "exp": "La estrategia transnacional busca responder a altas presiones tanto de reducción de costes como de adaptación local."
+  },
+  {
+    "b": 1,
+    "q": "8. El cuadro de mando integral:",
+    "o": [
+      "a. Tiene como ventaja que no se necesita establecer comparaciones con otros referentes externos",
+      "b. Establece un conjunto de indicadores de cuyo correcto funcionamiento depende la buena marcha de la empresa",
+      "c. Ninguna respuesta es correcta",
+      "d. Es una herramienta cualitativa de evaluación"
+    ],
+    "a": 1,
+    "exp": "El CMI selecciona los indicadores más representativos cuyo funcionamiento refleja el desempeño global para lograr la estrategia."
+  },
+  {
+    "b": 1,
+    "q": "9. Entre los motivos estratégicos que llevan a la realización de fusiones y adquisiciones está:",
+    "o": [
+      "a. Encontrar la manera de influir en la evolución futura de una determinada industria",
+      "b. La adquisición de ventajas derivadas de la integración vertical",
+      "c. Todas las respuestas son correctas",
+      "d. La obtención de recursos y capacidades"
+    ],
+    "a": 2,
+    "exp": "Las fusiones y adquisiciones se realizan para ganar poder de mercado, integrar verticalmente y adquirir recursos y capacidades."
+  },
+  {
+    "b": 1,
+    "q": "10.El desarrollo de nuevos mercados es adecuado cuando:",
+    "o": [
+      "a. Existen motivos de diversificación ventana e imagen",
+      "b. Aparece en nuevos canales de distribución",
+      "c. Los ciclos de vida de los productos son muy cortos",
+      "d. Las necesidades de los clientes son diversas y cambiantes"
+    ],
+    "a": 1,
+    "exp": "Aprovechar nuevos canales de distribución es una forma clásica de alcanzar nuevos segmentos de mercado (desarrollo de mercado)."
+  },
+  {
+    "b": 1,
+    "q": "11.La cultura organizativa:",
+    "o": [
+      "a. Todas son correctas",
+      "b. Condiciona el comportamiento de las personas",
+      "c. Tiene un carácter implícito",
+      "d. Facilita o dificulta la implantación de la estrategia"
+    ],
+    "a": 0,
+    "exp": "La cultura es implícita, condiciona el comportamiento y es un factor clave que facilita o dificulta la implantación estratégica."
+  },
+  {
+    "b": 1,
+    "q": "12.El concepto de crecimiento:",
+    "o": [
+      "a. Incluye aspectos cualitativos y cuantitativos",
+      "b. Siempre va acompañado de estrategias de desarrollo",
+      "c. Incluye aspectos exclusivamente cuantitativos",
+      "d. Requiere modificar el campo de actividad"
+    ],
+    "a": 2,
+    "exp": "El crecimiento suele definirse mediante indicadores cuantitativos (ventas, activos), mientras que el desarrollo incluye cambios cualitativos."
+  },
+  {
+    "b": 1,
+    "q": "13.Las decisiones estratégicas de empresas multinacionales se toman:",
+    "o": [
+      "a. Exclusivamente a nivel operativos",
+      "b. Exclusivamente a nivel corporativo",
+      "c. Se toman a nivel corporativo y competitivo",
+      "d. Exclusivamente a nivel competitivo"
+    ],
+    "a": 2,
+    "exp": "Requieren decisiones a nivel corporativo (elección de países y negocios) y competitivo (cómo competir en cada uno de ellos)."
+  },
+  {
+    "b": 1,
+    "q": "14.Para saber si una estrategia es factible:",
+    "o": [
+      "a. Debo analizar la rentabilidad, el riesgo y los grupos de poder involucrados",
+      "b. Es necesario realizar una análisis interno y externo de la empresa",
+      "c. Debo analizar la disponibilidad de recursos y capacidades",
+      "d. Debo analizar si es acorde a la misión y objetivos de la empresa"
+    ],
+    "a": 2,
+    "exp": "La factibilidad (feasibility) evalúa si la organización tiene los recursos y capacidades para llevar a cabo la estrategia."
+  },
+  {
+    "b": 1,
+    "q": "15.Cuando el grado de implicación de la matriz en las decisiones estratégicas de las filiales es muy alto, el modelo de dirección de empresas diversificadas más adecuado es:",
+    "o": [
+      "a. El modelo de control financiero",
+      "b. El modelo de compañía holding",
+      "c. El modelo de planificación estratégica",
+      "d. El modelo de control estratégico"
+    ],
+    "a": 2,
+    "exp": "El estilo de planificación estratégica implica un alto control e implicación de la central en la estrategia de las divisones."
+  },
+  {
+    "b": 1,
+    "q": "16.Una de las ventajas del desarrollo externo es que:",
+    "o": [
+      "a. Facilita la adquisición de la tecnología más reciente (bienes de equipo)",
+      "b. Facilita la entrada en industrias maduras",
+      "c. Optimiza el proceso de crecimiento",
+      "d. Optimiza la localización industrial  y la distribución comercial"
+    ],
+    "a": 1,
+    "exp": "Permite entrar en mercados maduros sin añadir nueva capacidad productiva que saturaría aún más la industria."
+  },
+  {
+    "b": 1,
+    "q": "17.Las innovaciones de proceso son especialmente importantes:",
+    "o": [
+      "a. En la etapa emergente",
+      "b. En la etapa de declive",
+      "c. En la etapa de crecimiento",
+      "d. En la etapa de madurez"
+    ],
+    "a": 3,
+    "exp": "En la fase de madurez, el producto se estandariza y la innovación se centra en procesos para reducir costes."
+  },
+  {
+    "b": 1,
+    "q": "18.Para la evaluación de estrategias, el criterio de adecuación:",
+    "o": [
+      "a. Está relacionado con el proceso de ajuste estratégico",
+      "b. Está relacionado con el proceso de ajuste organizativo",
+      "c. Está relacionado con las expectativas que tengan los grupos de interés",
+      "d. Está relacionado con el proceso de ajuste de los recursos y capacidades"
+    ],
+    "a": 0,
+    "exp": "La adecuación (suitability) analiza el ajuste de la estrategia con el entorno (oportunidades/amenazas) y capacidades de la empresa."
+  },
+  {
+    "b": 1,
+    "q": "19.Entre los motivos estratégicos que llevan a la cooperación entre empresas está:",
+    "o": [
+      "a. La obtención de economías de escala",
+      "b. La obtención de economías de aprendizaje",
+      "c. Ninguna de las respuestas es correcta",
+      "d. La obtención de economías de alcance"
+    ],
+    "a": 2,
+    "exp": "Las economías de escala y alcance son motivos económicos, no motivos estratégicos (que serían reducción de incertidumbre, etc)."
+  },
+  {
+    "b": 1,
+    "q": "20.Dentro del modelo general de cambio organizativo, los agentes de cambio:",
+    "o": [
+      "a. Están relacionados exclusivamente con las habilidades técnicas necesarias para realizar cambios informales",
+      "b. Están relacionados con los cambios informales requeridos en la estructura, procesos organizativos, sistemas de gestión y políticas de personal de la empresa",
+      "c. Están relacionado exclusivamente con las habilidades de liderazgo necesarias para realizar cambios formales",
+      "d. Están relacionados con la puesta en marcha y gestión del proceso de"
+    ],
+    "a": 3,
+    "exp": "Los agentes de cambio son los encargados de liderar, poner en marcha y gestionar el propio proceso de cambio organizativo."
+  },
+  {
+    "b": 1,
+    "q": "1. Cuando Vodafone ofrece a sus clientes el servicio de conexión a internet a través de diversas tecnologías como cable, satélite, banda ancha, móvil, etc., está actuando en un",
+    "o": [
+      "a) Ámbito de clientes amplio",
+      "b) Ámbito de funciones amplio",
+      "c) Ámbito de tecnologías amplio",
+      "d) Todas son correctas"
+    ],
+    "a": 2,
+    "exp": "Ofrece la misma función a los mismos clientes pero utilizando distintas tecnologías, ampliando el ámbito tecnológico."
+  },
+  {
+    "b": 1,
+    "q": "2. Una de las razones para la creación de una joint- venture en lugar de filial es que presenta",
+    "o": [
+      "a) Una rentabilidad mayor para la empresa",
+      "b) Un menor riesgo para la empresa",
+      "c) Un mejor posicionamiento para las empresas",
+      "d) Una mayor ventaja competitiva para las empresas"
+    ],
+    "a": 1,
+    "exp": "Al compartir la inversión con otra empresa, se reduce el riesgo asumido comparado con crear una filial propia al 100%."
+  },
+  {
+    "b": 1,
+    "q": "3. El sistema de control que trata de maximizar la rentabilidad se conoce como",
+    "o": [
+      "a) Centros de beneficios",
+      "b) Centros de ingresos",
+      "c) Centros de inversión",
+      "d) Centros de gasto discrecional"
+    ],
+    "a": 2,
+    "exp": "Los centros de inversión miden el rendimiento relacionando los beneficios obtenidos con los activos/inversión utilizados."
+  },
+  {
+    "b": 1,
+    "q": "4. En la matriz BCG, los negocios en equilibrio financiero, donde se aconseja desinvertir y dirigir recursos a otros productos, se conocen como",
+    "o": [
+      "a) Estrella",
+      "b) Dilema",
+      "c) Perros muertos",
+      "d) Vaca lechera"
+    ],
+    "a": 2,
+    "exp": "Los 'perros' a menudo tienen un flujo de caja nulo o ligeramente positivo, pero se aconseja desinvertir al no tener crecimiento ni cuota."
+  },
+  {
+    "b": 1,
+    "q": "5.  Cuando aparecen nuevos canales de distribución de alta calidad, confianza y de costes no excesivamente elevados, la estrategia más adecuada es",
+    "o": [
+      "a) La penetración de mercados",
+      "b) El desarrollo de mercados",
+      "c) El desarrollo de productos",
+      "d) La diversificación"
+    ],
+    "a": 1,
+    "exp": "El uso de nuevos canales de distribución permite vender los productos actuales a nuevos clientes en nuevos mercados locales."
+  },
+  {
+    "b": 1,
+    "q": "En las capturas aparecen 3 de las respuestas pero no la correcta ni la pregunta: Opciones erróneas:",
+    "o": [
+      "a)",
+      "b) productos a desarrollar"
+    ],
+    "a": 0,
+    "exp": "Pregunta descartada/incompleta."
+  },
+  {
+    "b": 1,
+    "q": "Rélax. 20€ en Bitcoin y luego sigues. Llévate hasta 20€ en Bitcoin al operar con 50€. - Binance . .",
+    "o": [
+      "c) mercados y áreas geográficas a abarcar",
+      "d) clientes objetivo"
+    ],
+    "a": 0,
+    "exp": "Pregunta descartada/publicidad."
+  }
+]
