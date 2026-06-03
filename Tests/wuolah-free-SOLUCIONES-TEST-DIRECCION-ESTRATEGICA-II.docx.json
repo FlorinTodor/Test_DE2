@@ -8,8 +8,8 @@
       "c. Basadas en el sobredimensionamiento",
       "d. Establecidas en función de la reacción de los competidores establecidos"
     ],
-    "a": 1,
-    "exp": "En la etapa de crecimiento, el aumento de la demanda atrae a nuevos competidores, siendo las ventajas en costes por el efecto experiencia o economías de escala las principales barreras de entrada."
+    "a": 0,
+    "exp": ""
   },
   {
     "b": 1,
@@ -20,8 +20,8 @@
       "c. La funcional",
       "d. La simple"
     ],
-    "a": 1,
-    "exp": "La estructura divisional agrupa por propósitos (productos, mercados), mientras que la funcional lo hace por procedimientos."
+    "a": 0,
+    "exp": ""
   },
   {
     "b": 1,
@@ -32,8 +32,8 @@
       "c. Subcontratación",
       "d. Franquicia"
     ],
-    "a": 1,
-    "exp": "Una empresa conjunta (joint venture) implica que dos o más empresas (matrices) crean una entidad jurídicamente independiente."
+    "a": 0,
+    "exp": ""
   },
   {
     "b": 1,
@@ -44,8 +44,8 @@
       "c. Todas son correctas",
       "d. Tener disponibilidad de recursos complementarios"
     ],
-    "a": 2,
-    "exp": "En industrias tecnológicas, las estrategias incluyen proteger la innovación, controlar el estándar y disponer de recursos complementarios."
+    "a": 0,
+    "exp": ""
   },
   {
     "b": 1,
@@ -56,8 +56,8 @@
       "c. Todas son correctas",
       "d. El establecimiento de objetivos anuales y planes de acción"
     ],
-    "a": 2,
-    "exp": "La planificación estratégica incluye tanto la asignación de recursos como el establecimiento de políticas, objetivos y planes."
+    "a": 0,
+    "exp": ""
   },
   {
     "b": 1,
@@ -68,8 +68,8 @@
       "c. Cabe esperar una mayor rentabilidad en la diversificación relacionada que en la no relacionada",
       "d. Ninguna respuesta es correcta"
     ],
-    "a": 2,
-    "exp": "Generalmente se asume empíricamente que la diversificación relacionada ofrece mayor rentabilidad por la generación de sinergias."
+    "a": 0,
+    "exp": ""
   },
   {
     "b": 1,
@@ -80,8 +80,8 @@
       "c. La estrategia transnacional",
       "d. La estrategia internacional"
     ],
-    "a": 2,
-    "exp": "La estrategia transnacional busca responder a altas presiones tanto de reducción de costes como de adaptación local."
+    "a": 0,
+    "exp": ""
   },
   {
     "b": 1,
@@ -92,8 +92,8 @@
       "c. Ninguna respuesta es correcta",
       "d. Es una herramienta cualitativa de evaluación"
     ],
-    "a": 1,
-    "exp": "El CMI selecciona los indicadores más representativos cuyo funcionamiento refleja el desempeño global para lograr la estrategia."
+    "a": 0,
+    "exp": ""
   },
   {
     "b": 1,
@@ -104,8 +104,8 @@
       "c. Todas las respuestas son correctas",
       "d. La obtención de recursos y capacidades"
     ],
-    "a": 2,
-    "exp": "Las fusiones y adquisiciones se realizan para ganar poder de mercado, integrar verticalmente y adquirir recursos y capacidades."
+    "a": 0,
+    "exp": ""
   },
   {
     "b": 1,
@@ -116,8 +116,8 @@
       "c. Los ciclos de vida de los productos son muy cortos",
       "d. Las necesidades de los clientes son diversas y cambiantes"
     ],
-    "a": 1,
-    "exp": "Aprovechar nuevos canales de distribución es una forma clásica de alcanzar nuevos segmentos de mercado (desarrollo de mercado)."
+    "a": 0,
+    "exp": ""
   },
   {
     "b": 1,
@@ -129,7 +129,7 @@
       "d. Facilita o dificulta la implantación de la estrategia"
     ],
     "a": 0,
-    "exp": "La cultura es implícita, condiciona el comportamiento y es un factor clave que facilita o dificulta la implantación estratégica."
+    "exp": ""
   },
   {
     "b": 1,
@@ -140,8 +140,8 @@
       "c. Incluye aspectos exclusivamente cuantitativos",
       "d. Requiere modificar el campo de actividad"
     ],
-    "a": 2,
-    "exp": "El crecimiento suele definirse mediante indicadores cuantitativos (ventas, activos), mientras que el desarrollo incluye cambios cualitativos."
+    "a": 0,
+    "exp": ""
   },
   {
     "b": 1,
@@ -152,8 +152,8 @@
       "c. Se toman a nivel corporativo y competitivo",
       "d. Exclusivamente a nivel competitivo"
     ],
-    "a": 2,
-    "exp": "Requieren decisiones a nivel corporativo (elección de países y negocios) y competitivo (cómo competir en cada uno de ellos)."
+    "a": 0,
+    "exp": ""
   },
   {
     "b": 1,
@@ -164,8 +164,8 @@
       "c. Debo analizar la disponibilidad de recursos y capacidades",
       "d. Debo analizar si es acorde a la misión y objetivos de la empresa"
     ],
-    "a": 2,
-    "exp": "La factibilidad (feasibility) evalúa si la organización tiene los recursos y capacidades para llevar a cabo la estrategia."
+    "a": 0,
+    "exp": ""
   },
   {
     "b": 1,
@@ -176,8 +176,8 @@
       "c. El modelo de planificación estratégica",
       "d. El modelo de control estratégico"
     ],
-    "a": 2,
-    "exp": "El estilo de planificación estratégica implica un alto control e implicación de la central en la estrategia de las divisones."
+    "a": 0,
+    "exp": ""
   },
   {
     "b": 1,
@@ -188,8 +188,8 @@
       "c. Optimiza el proceso de crecimiento",
       "d. Optimiza la localización industrial  y la distribución comercial"
     ],
-    "a": 1,
-    "exp": "Permite entrar en mercados maduros sin añadir nueva capacidad productiva que saturaría aún más la industria."
+    "a": 0,
+    "exp": ""
   },
   {
     "b": 1,
@@ -200,8 +200,8 @@
       "c. En la etapa de crecimiento",
       "d. En la etapa de madurez"
     ],
-    "a": 3,
-    "exp": "En la fase de madurez, el producto se estandariza y la innovación se centra en procesos para reducir costes."
+    "a": 0,
+    "exp": ""
   },
   {
     "b": 1,
@@ -213,7 +213,7 @@
       "d. Está relacionado con el proceso de ajuste de los recursos y capacidades"
     ],
     "a": 0,
-    "exp": "La adecuación (suitability) analiza el ajuste de la estrategia con el entorno (oportunidades/amenazas) y capacidades de la empresa."
+    "exp": ""
   },
   {
     "b": 1,
@@ -224,8 +224,8 @@
       "c. Ninguna de las respuestas es correcta",
       "d. La obtención de economías de alcance"
     ],
-    "a": 2,
-    "exp": "Las economías de escala y alcance son motivos económicos, no motivos estratégicos (que serían reducción de incertidumbre, etc)."
+    "a": 0,
+    "exp": ""
   },
   {
     "b": 1,
@@ -236,8 +236,8 @@
       "c. Están relacionado exclusivamente con las habilidades de liderazgo necesarias para realizar cambios formales",
       "d. Están relacionados con la puesta en marcha y gestión del proceso de"
     ],
-    "a": 3,
-    "exp": "Los agentes de cambio son los encargados de liderar, poner en marcha y gestionar el propio proceso de cambio organizativo."
+    "a": 0,
+    "exp": ""
   },
   {
     "b": 1,
@@ -248,8 +248,8 @@
       "c) Ámbito de tecnologías amplio",
       "d) Todas son correctas"
     ],
-    "a": 2,
-    "exp": "Ofrece la misma función a los mismos clientes pero utilizando distintas tecnologías, ampliando el ámbito tecnológico."
+    "a": 0,
+    "exp": ""
   },
   {
     "b": 1,
@@ -260,8 +260,8 @@
       "c) Un mejor posicionamiento para las empresas",
       "d) Una mayor ventaja competitiva para las empresas"
     ],
-    "a": 1,
-    "exp": "Al compartir la inversión con otra empresa, se reduce el riesgo asumido comparado con crear una filial propia al 100%."
+    "a": 0,
+    "exp": ""
   },
   {
     "b": 1,
@@ -272,8 +272,8 @@
       "c) Centros de inversión",
       "d) Centros de gasto discrecional"
     ],
-    "a": 2,
-    "exp": "Los centros de inversión miden el rendimiento relacionando los beneficios obtenidos con los activos/inversión utilizados."
+    "a": 0,
+    "exp": ""
   },
   {
     "b": 1,
@@ -284,8 +284,8 @@
       "c) Perros muertos",
       "d) Vaca lechera"
     ],
-    "a": 2,
-    "exp": "Los 'perros' a menudo tienen un flujo de caja nulo o ligeramente positivo, pero se aconseja desinvertir al no tener crecimiento ni cuota."
+    "a": 0,
+    "exp": ""
   },
   {
     "b": 1,
@@ -296,8 +296,8 @@
       "c) El desarrollo de productos",
       "d) La diversificación"
     ],
-    "a": 1,
-    "exp": "El uso de nuevos canales de distribución permite vender los productos actuales a nuevos clientes en nuevos mercados locales."
+    "a": 0,
+    "exp": ""
   },
   {
     "b": 1,
@@ -307,7 +307,7 @@
       "b) productos a desarrollar"
     ],
     "a": 0,
-    "exp": "Pregunta descartada/incompleta."
+    "exp": ""
   },
   {
     "b": 1,
@@ -317,6 +317,6 @@
       "d) clientes objetivo"
     ],
     "a": 0,
-    "exp": "Pregunta descartada/publicidad."
+    "exp": ""
   }
 ]
